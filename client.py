@@ -1,8 +1,4 @@
 #Cleint side GUI Chat Room
-from distutils.log import info
-from email import message
-from http import client
-from re import L
 import tkinter, socket, threading
 from tkinter import DISABLED, VERTICAL, END
 from tkinter.font import NORMAL
